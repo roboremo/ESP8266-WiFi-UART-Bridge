@@ -63,10 +63,10 @@ IPAddress remoteIp;
 
 
 uint8_t buf1[bufferSize];
-uint8_t i1=0;
+uint16_t i1=0;
 
 uint8_t buf2[bufferSize];
-uint8_t i2=0;
+uint16_t i2=0;
 
 
 
